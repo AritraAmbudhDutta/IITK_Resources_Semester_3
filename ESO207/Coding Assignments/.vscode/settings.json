@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "algorithm": "c",
+        "chrono": "c",
+        "complex": "c",
+        "functional": "c",
+        "optional": "c",
+        "regex": "c",
+        "system_error": "c",
+        "type_traits": "c",
+        "xtr1common": "c",
+        "xutility": "c",
+        "bitset": "c",
+        "iterator": "c",
+        "xhash": "c",
+        "xmemory": "c",
+        "xtree": "c"
+    }
+}

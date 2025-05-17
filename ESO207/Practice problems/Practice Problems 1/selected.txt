@@ -1,0 +1,26 @@
+=========== dp.pdf (from Dasgupta) =============
+all exercise problems from chapter 6
+
+you can also do greedy exercise from Coremen.
+
+========== greedy.pdf (from Dasgupta) ==========
+5.1 (a,b)
+5.2
+5.5 a
+5.6
+5.7
+5.9 (MST ones)
+5.10
+5.11
+5.22
+5.32
+
+you can also do greedy exercise from Coremen.
+
+========== avl tree (from Levitin's textbook) ==========
+This pdf has a description of AVL trees. However it only covers insertion and leaves deletion as an exercise. In the class we covered both insertion and deletion. 
+
+skip the discussion on 2-3 trees.
+1 - 6, 8
+
+Refer to Cormen et al.: chapter and exercises on BST (but not AVL).

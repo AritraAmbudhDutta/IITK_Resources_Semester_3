@@ -1,0 +1,10 @@
+============= RandAlgo.pdf ===================
+First two chapters from Probability & Computing by Mitzenmacher and Upfal.
+
+Read the first two chapters and solve relevant exercises.
+
+============= DFS-Dagupta.pdf ================
+Read chapter 3 and solve all exercises from Dasgupta's book.
+
+============WeightedSetCover_Details.pdf ==========
+Some missing details from the discussion on greedy weighted set cover from Nov 8's class
